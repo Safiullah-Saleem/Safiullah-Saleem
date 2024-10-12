@@ -21,7 +21,7 @@
 - Crafting smooth, responsive, and user-friendly web and mobile experiences.
 
 📫 **How to reach me:**
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/safiullah-saleem-51a0912a1/))
+- [LinkedIn](https://www.linkedin.com/in/safiullah-saleem-51a0912a1/)
 - [Email](safiullahsubadar@gmail.com)
 
 🌱 **Fun Fact:**
