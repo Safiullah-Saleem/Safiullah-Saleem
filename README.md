@@ -24,7 +24,6 @@
 - [LinkedIn](https://www.linkedin.com/in/safiullah-saleem-51a0912a1/)
 - [Email](safiullahsubadar@gmail.com)
 
-🌱 **Fun Fact:**
-I turned my passion for baking into a business! Check out [S. Bakers](your-website-url).
+
 
 Feel free to explore my repositories and projects here!
