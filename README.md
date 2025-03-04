@@ -57,7 +57,7 @@
 ---
 
 ## 📊 DSA & Problem Solving  
-🔹 **LeetCode Enthusiast** – 200+ problems solved  
+🔹 **LeetCode Enthusiast** – 40+ problems solved  
 🔹 Strong knowledge of **- **Arrays & Strings** 📜  
    - **Linked Lists & Pointers** 🔗  
    - **Binary Search** 🔍  
