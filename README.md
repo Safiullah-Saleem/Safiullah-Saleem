@@ -15,7 +15,7 @@
 
 ## 💻 Tech Stack  
 
-<table style="width:100%">
+<table style="width:100vw">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/></td>
